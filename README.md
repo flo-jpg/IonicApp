@@ -1,22 +1,11 @@
 
-<b>Classbook application for students/teachers</b>
+Mini-socialMedia app
 
-<i>The student can authenticate on the app to see all his grades.
-
-For a subject,the teacher can add/remove or updte the grades of a specific student.</i>
-
-Functionalities:
-
--both the student and the teacher have to login into the application
-
--the teacher can add/remove/update grades for a specific student on his subject
-
--the student can see all his grades for all the subjects and his final grade at the moment
-
--whenever a teacher adds/removes or modifies a specific grade,the student is notified via email
-
--after a grade is added(within maximum 2 weeks),the student has to upload an 
-
-image of a document which shows that his parent
-
-is aware of his grade(can upload the picture or take one in that moment)
+Features:
+-> the user has to authenticate into the application
+-> one user can add friends by their username
+-> the user can see his friends' posts (which is either a photo or text post)
+-> a user can post something (text or a photo -- the user can upload it or take it in that mome
+nt)
+-> the user can check out other user's profiles - whether or not it's online,his last location
+number of posts,etc
